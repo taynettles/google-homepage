@@ -1,0 +1,116 @@
+img{
+	height: 95px;
+	width:269px;
+}
+
+#logo{
+	display: block;
+	text-align: center;
+	padding-top: 200px;
+}
+
+#form{
+	display: block;
+	text-align: center;
+}
+
+#google_search{
+	display: block;
+	margin: 0;
+	text-align: center;
+}
+
+#im_feeling_lucky{
+	display: inline-block;
+}
+
+button{
+	border-radius: 2px;
+	color: #444;
+	border:1px solid;
+	border-color: #c6c6c6;
+	background-color: #f5f5f5;
+	font: bold 11px/24px arial;
+	text-align: center;
+	margin: 12px 6px 8px 6px;
+	padding: 0 4px 0 4px;
+}
+
+input{
+	width: 570px;
+	height:24px;
+	border:1px transparent gray;
+	margin: 5px 0 5px 0;
+	font: 16px arial,sans-serif
+
+
+}
+
+.header a{
+	color:#404040;
+	text-decoration: none;
+	font: 13px/27px Arial,sans-serif;
+	vertical-align: middle;
+	display: inline-block;
+	margin-left: 11px;
+}
+.header a.applications {
+	color: #404040;
+	text-decoration: none;
+	background-position: -51px -452px;
+	opacity: .55;
+	display: inline-block;
+	outline: none;
+	vertical-align: middle;
+	border-radius: 2px;
+	height: 30px;
+	width: 30px;
+	background-image: url(https://ssl.gstatic.com/gb/images/v1_2e543709.png);
+	background-size: 112px 1828px;
+}
+
+.header a.sign_in{
+	border-radius: 2px;
+	display: inline-block;
+	color: #FFF;
+	border: 1px solid #4285F4;
+	background-color: #4387FD;
+	font-weight: bold;
+	text-align: center;
+	padding: 0 12px 0 12px;
+	line-height: 28px;
+	text-decoration: none;
+	cursor: default;
+	margin-left: 11px;
+}
+.header{
+	float: right;
+	margin: 7px 22px 0px 0px;
+}
+
+footer{
+	display: inline-block;
+	border-top: 1px solid #E4E4E4;
+	line-height: 40px;
+	bottom: 0px;
+	left: 0px;
+	right: 0px;
+	position: absolute;
+	background-color: #F2F2F2;
+	width: 100%;
+	vertical-align: middle;
+}
+
+footer a{
+	color:#666;
+	text-decoration: none;
+	font: 13px/27px Arial,sans-serif;
+	
+}
+.left{
+	margin-left: 30px;
+}
+.right{
+	float: right;
+	margin: 10px 30px 0 0;
+}
